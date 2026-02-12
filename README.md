@@ -33,6 +33,7 @@ The objective is to prepare raw sales data by handling duplicates, formatting in
 ---
 
 ## 📁 Project Structure
-<img width="920" height="750" alt="Screenshot 2026-02-03 181054" src="https://github.com/user-attachments/assets/99c7acd3-d0e6-4ab6-b347-1e9162543fe2" />
+<img width="1907" height="1006" alt="Screenshot 2026-02-12 112344" src="https://github.com/user-attachments/assets/db941d16-52c9-49bf-b561-aa84aa337c8d" />
+
 
 
